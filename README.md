@@ -3,9 +3,27 @@ Design e Prototipação da Interface do Usuário.
 
 # Let's Eat App
 
-Veja a seguir imagens do protótipo da aplicação, feito no Figma!
+Neste projeto, executei e registrei todas as etapas de uma Lean Inception para delinear o MVP da aplicação Let's Eat.
 
-## Wireframes
+A partir da ideação realizada, com features contidas no MVP Canvas, construí um backlog inicial para o produto, usando a ferramenta Jira. Itens de backlog no formato de épicos, features e histórias de usuário também foram definidos.
+
+Por fim, usando o conhecimento adquirido sobre Design e Prototipação da Interface do Usuário, incluí um protótipo de baixa fidelidade (wireframe) desenvolvido no Figma para a entrega da primeira sprint da aplicação.
+
+Veja a seguir o MVP Canvas, o Backlog do produto e os wirefrimes do projeto!
+
+## MVP Canvas - Lean Inception
+
+MVP           
+:-------------------------:|
+![Screeshot](./images/mvp.png)  |
+
+## Sprint Backlog - Jira
+
+Backlog          
+:-------------------------:|
+![Screeshot](./images/backlog.png)  |
+
+## Wireframes - Figma
 
 Pages 1, 2, 3 - Login, New Account and Location            
 :-------------------------:|
