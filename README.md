@@ -17,7 +17,7 @@ MVP
 :-------------------------:|
 ![Screeshot](./images/mvp.png)  |
 
-## Sprint Backlog - Jira
+## Backlog - Jira
 
 Backlog          
 :-------------------------:|
