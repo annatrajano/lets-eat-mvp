@@ -9,7 +9,7 @@ A partir da ideação realizada, com features contidas no MVP Canvas, construí 
 
 Por fim, usando o conhecimento adquirido sobre Design e Prototipação da Interface do Usuário, incluí um protótipo de baixa fidelidade (wireframe) desenvolvido no Figma para a entrega da primeira sprint da aplicação.
 
-Veja a seguir o MVP Canvas, o Backlog do produto e os wireframes do projeto!
+Veja a seguir o MVP Canvas, o Backlog e os wireframes do projeto!
 
 ## MVP Canvas - Lean Inception
 
